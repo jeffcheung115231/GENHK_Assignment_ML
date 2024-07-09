@@ -1,10 +1,10 @@
 ## GENHK Car Price Prediction Assignment
 
-This repository contains code and resources for a project aimed at predicting car prices using machine learning.
+This repository contains code and resources for a assignment aimed at predicting car prices using machine learning.
 
 **Dataset:**
 
-The project utilizes the "Car_Price.csv" dataset, which contains information about various car attributes and their corresponding prices.
+The assignment utilizes the "Car_Price.csv" dataset, which contains information about various car attributes and their corresponding prices.
 
 **Goal:**
 
@@ -12,7 +12,7 @@ The primary objective is to build a predictive model that can accurately estimat
 
 **Methodology:**
 
-The project follows a typical machine learning workflow:
+The assignment follows a typical machine learning workflow:
 
 1. **Data Exploration and Preprocessing:**
    - Load and inspect the dataset using Pandas.
